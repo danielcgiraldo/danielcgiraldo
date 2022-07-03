@@ -4,4 +4,4 @@
 
 ## Featured Projects
 
-|[![Storend: An event company ecosystem](https://cdn.storend.com.co/storend/images/social/cover.png)](https://storend.com.co) | [![DM PRINT: Price based on ink coverage](https://dmprintmed.com/resources/images/social/cover.png)](https://dmprintmed.com) |
+|[![Storend: An event company ecosystem](https://i.ibb.co/c1WBpKp/STOREND.png)](https://storend.com.co) | [![DM PRINT: Price based on ink coverage](https://i.ibb.co/KxGfbfP/DM-PRINT.png)](https://dmprintmed.com) |
